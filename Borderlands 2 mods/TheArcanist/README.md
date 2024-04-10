@@ -4,12 +4,12 @@ Arcania is a vanilla+ item pack that aims to improve the Borderlands 2 experienc
 
 What to expect
 ==============
-- 61 new unique weapons (13 assault rifles, 9 shotguns, 13 pistols, 9 SMGs, 9 sniper rifles, and 8 rocket launchers). Expand your arsenal and find dozens of new ways to blow your foes' faces off! Each of the items can be obtained from a certain mission, enemy, or lootable object, with a vast majority of legendary items being obtainable from all suitable loot sources.
+- 71 new unique weapons (15 assault rifles, 11 shotguns, 15 pistols, 10 SMGs, 11 sniper rifles, and 9 rocket launchers). Expand your arsenal and find dozens of new ways to blow your foes' faces off! Each of the items can be obtained from a certain mission, enemy, or lootable object, with a vast majority of legendary items being obtainable from all suitable loot sources.
 - Signature gear! You will get a special item for completing the first mission of the game based on the character class you're playing as. Jump into Arcania with your character's first weapon!
 - Non-unique Jakobs shields! Shields of the Jakobs manufacturer provide bullet deflection and reduce damage taken from deflected bullets. They're gonna think twice before shooting you again!
 - Non-unique Jakobs grenades! Just like their weapons, Jakobs grenades feature high, non-elemental damage.
-- 8 new unique shields
-- 5 new unique relics
+- 10 new unique shields
+- 6 new unique relics
 - 6 new unique grenade mods
 - The mod file includes a spreadsheet with each item's drop source as well as an explaination of its mechanics.
 
